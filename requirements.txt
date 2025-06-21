@@ -1,0 +1,15 @@
+openai-whisper
+fastapi
+sqlalchemy
+python-dotenv
+joblib
+opencv-python
+pyttsx3
+mediapipe
+openvino
+httpx
+pycryptodome
+pymysql
+python-multipart
+uvicorn
+cryptography
